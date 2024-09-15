@@ -12,16 +12,11 @@ pip install torch torchvision opencv-python matplotlib
 ## Usage
 
 1. Clone the repository:
-    ```bash
     git clone https://github.com/Sudo_User/your-repo-name.git
     cd your-repo-name
-    ```
 
 2. Run the depth estimation script:
-    ```bash
-    python depth_estimation.py
-    ```
-
+    python Main.py
    This script captures video from your webcam, processes each frame to estimate depth, and displays both the original video and the depth map.
 ```
 
