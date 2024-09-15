@@ -23,6 +23,7 @@ pip install torch torchvision opencv-python matplotlib
     ```
 
    This script captures video from your webcam, processes each frame to estimate depth, and displays both the original video and the depth map.
+```
 
 ## Code Overview
 
